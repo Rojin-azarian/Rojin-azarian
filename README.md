@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rojin-azarian
-- 👀 I’m interested in Data Analytics, ML, Data Engineering and Data Science
-- 🌱 I’m currently re-learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on your projects
-- 📫 How to reach me social media DM
+- 👀 I’m a Data Analytics, ML, Data Engineering and Data Science expert.
+- 🌱 I’m currently re-learned HTML, CSS, and JavaScript.
+- 💞️ I’m looking to collaborate on your projects.
+- 📫 How to reach me social media: Blurouge
 - 😄 Pronouns: [She/Her/Hers]
 - ⚡ Fun fact: iykyk
 
